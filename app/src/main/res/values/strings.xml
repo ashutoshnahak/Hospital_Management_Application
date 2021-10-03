@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hospital Management App</string>
+    <string name="doctor">Doctor</string>
+    <string-array name="DOCTORLIST">
+        <item>Dr. Atul Kumar</item>
+        <item>Dr.S.K. Acharya</item>
+        <item>Dr. Kapil Sikka</item>
+        <item>Dr. Sachin A Borkar</item>
+        <item>Dr. Vivek Thapar</item>
+        <item>Dr.V.K. Paul</item>
+        <item>Dr. Sumit Bansal</item>
+        <item>Dr.R.K. Yadav</item>
+        <item>Dr. Randeep Guleria</item>
+        <item>Dr.V.K. Sharma</item>
+        <item>Dr.P.P. Kotwal</item>
+        <item>Dr.D.K. Gupta</item>
+    </string-array>
+</resources>
